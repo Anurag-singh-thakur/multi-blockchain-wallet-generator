@@ -1,0 +1,19 @@
+/* src/App.css */
+body {
+  background-color: #1a1a1a; /* Dark background */
+  color: white; /* White text */
+  font-family: Arial, sans-serif; /* Optional: Set a default font */
+}
+
+button {
+  background-color: white; /* White buttons */
+  color: black; /* Black text on buttons */
+  border: none; /* Remove default border */
+  padding: 10px 20px; /* Add padding */
+  border-radius: 5px; /* Rounded corners */
+  cursor: pointer; /* Pointer cursor on hover */
+}
+
+button:hover {
+  background-color: #f0f0f0; /* Light gray on hover */
+}
